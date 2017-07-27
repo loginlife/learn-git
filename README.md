@@ -1,2 +1,2 @@
 # learn-git
-Learn git
+该项目用来学习Git工具，项目中的所有代码没有任何实际意义。
