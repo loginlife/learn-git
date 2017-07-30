@@ -11,7 +11,9 @@ public class Test {
     }
 
     public void test02() {
-        // 
+        for (int i = 0, len = 10; i < len; i ++ ) {
+            System.out.println("i=" + i);
+        }
     }
 
     public static void main(String[] args) {
