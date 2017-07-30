@@ -1,0 +1,4 @@
+学习git分别使用Git bash、Git GUI、IDEA、Eclipse来学习Git操作。通过大量的实践来深入了解和学习Git技能。
+
+作者：Administrator
+日期：2017年7月30日 21:18:49
