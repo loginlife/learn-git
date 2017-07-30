@@ -1,3 +1,4 @@
+package com.huangx;
 
 /**
  * 第一个Java程序Hello
